@@ -1,0 +1,7 @@
+.wrapper {
+    max-width: 968px;
+}
+
+.wrapper.m-auto {
+    margin: auto;
+}
